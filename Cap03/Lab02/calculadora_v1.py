@@ -7,3 +7,4 @@
 print("\n******************* Python Calculator *******************")
 
 
+p1 = input('Informe qual operação deseja realizar: ')
